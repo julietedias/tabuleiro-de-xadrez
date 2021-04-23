@@ -2,9 +2,9 @@
 
 Vamos supor que várias pedras do jogo de xadrez estão no tabuleiro. Para facilitar a indicação das peças, vamos convencionar:
 
-​					1 – peões			3 – torres			5 – reis				0 – ausência de peças  
+​					1 – peões		 |	3 – torres		|  5 – reis			  |  0 – ausência de peças  
 
-​					2 – cavalos		  4 – bispos		   6 – rainhas	 
+​					2 – cavalos	 |	4 – bispos		|  6 – rainhas	 
 
 O tabuleiro é o seguinte:
 
